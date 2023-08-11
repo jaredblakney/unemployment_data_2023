@@ -18,6 +18,10 @@ Create a virtual environment:
 conda create -n unemployment-env python=3.10
 ```
 
+'''sh
+conda activate unemployment-env
+'''
+
 Install third-party packages: 
 
 ```sh
